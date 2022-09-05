@@ -1,0 +1,62 @@
+@font-face{
+    font-family: fontcakep;
+    src: url('../image/Poppins-Regular.ttf');
+}
+
+body{
+    font-family: fontcakep;
+    margin: 0cm 2cm;
+    background-image: url(../image/brnd.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: fixed;
+    color:#082E48;
+}
+
+marquee{
+    color: #082E48;
+}
+
+img{
+    border-radius: 50%;
+}
+
+p{
+    text-align: justify;
+}
+
+fieldset, legend{
+    border: #082E48 solid 3px;
+    border-radius: 10px;
+    font-family: fontcakep;
+    color: #215070;
+}
+
+legend{
+    background-color: #FFCE31;
+    color: #082E48;
+    padding: 10px;
+    margin: auto;
+    width: 20%;
+    text-align: center;
+    font-weight: bolder;
+    font-size: large;
+}
+
+table{
+    margin: auto;
+    width: 90%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+th{
+    background-color: #D6A4DE;
+    border: #FFCE31 solid 2px;
+    border-radius: 5px;
+}
+
+td{
+    background-color: whitesmoke;
+    border: #DDDDDD solid 2px;
+}

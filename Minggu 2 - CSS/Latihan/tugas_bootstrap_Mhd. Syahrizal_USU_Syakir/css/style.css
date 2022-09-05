@@ -1,0 +1,44 @@
+@font-face{
+    font-family: poppins;
+    src: url('fonts/Poppins-Regular.ttf');
+}
+
+body{
+    font-family: poppins;
+}
+
+.warnacakep{
+    color: #082E48;
+}
+
+.kekanan{
+    position: absolute;
+    right: 20px;
+}
+
+.tbold{
+    font-weight: bold;
+}
+
+.indent{
+    text-indent: 0.5in;
+    text-align: justify;
+}
+
+.border{
+    border-radius: 10px;
+}
+
+.hover p:hover{
+    background-color:#082E48;
+  }
+
+.footer {
+    background-color: #082E48;
+    padding: 10px;
+    text-align: center;
+    color: white;
+    padding-top: 30px;
+    border-top-right-radius: 25px;
+    border-top-left-radius: 25px;
+}
